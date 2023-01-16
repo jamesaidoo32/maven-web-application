@@ -95,7 +95,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>jamesaidoo32 Releases Nexus Repository</name>
-	      <url>http://172.31.5.63:8081/repository/tesla-webapp-releases/</url>
+	      <url>http://172.31.5.62:8081/repository/tesla-webapp-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
